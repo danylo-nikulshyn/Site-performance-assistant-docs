@@ -1,4 +1,6 @@
 # [Nextra](https://nextra.vercel.app)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdanylo-nikulshyn%2FSite-performance-assistant-docs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdanylo-nikulshyn%2FSite-performance-assistant-docs?ref=badge_shield)
+
 
 _Warning: this project is not production ready, API might change without notice._
 
@@ -20,3 +22,7 @@ The code of Nextra is under the [`core`](https://github.com/shuding/nextra/tree/
 ---
 
 Created by [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com). Released under the MIT license.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdanylo-nikulshyn%2FSite-performance-assistant-docs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdanylo-nikulshyn%2FSite-performance-assistant-docs?ref=badge_large)
